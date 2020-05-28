@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookNotificationCheck", "OutlookNotificationCheck\OutlookNotificationCheck.csproj", "{E1EBB26E-93D2-4E4B-A014-6A3412B304DC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OutlookNotificationCheck_Setup", "OutlookNotificationCheck_Setup\OutlookNotificationCheck_Setup.vdproj", "{1D5B769C-B50D-40FB-9A87-8082C9C4058D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1EBB26E-93D2-4E4B-A014-6A3412B304DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EBB26E-93D2-4E4B-A014-6A3412B304DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EBB26E-93D2-4E4B-A014-6A3412B304DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EBB26E-93D2-4E4B-A014-6A3412B304DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5B769C-B50D-40FB-9A87-8082C9C4058D}.Debug|Any CPU.ActiveCfg = Debug
+		{1D5B769C-B50D-40FB-9A87-8082C9C4058D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
