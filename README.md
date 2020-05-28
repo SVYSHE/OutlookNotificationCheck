@@ -14,16 +14,16 @@ Mit diesen Anweisungen erhalten Sie eine Kopie der Anwendung auf ihre lokale Mas
 
 #### 1. Führen Sie die Installationsroutine aus.
 
-	> Wechseln Sie dazu in das Verzeichnis *[Downloadverzeichnis]/OutlookNotificationCheck/OutlookNotification_Setup/Debug/*.
-	> Führen Sie hier die Installationsroutine *OutlookNotificationCheck_Setup.msi* aus und folgen Sie den Anweisungen.
+> Wechseln Sie dazu in das Verzeichnis *[Downloadverzeichnis]/OutlookNotificationCheck/OutlookNotification_Setup/Debug/*.
+> Führen Sie hier die Installationsroutine *OutlookNotificationCheck_Setup.msi* aus und folgen Sie den Anweisungen.
 
 #### 2. Erstellen Sie einen Autostart Eintrag.
 	
-	> Öffnen Sie hierzu per Tastenkombination *[WINDOWS] + [R]* das *Ausführen-Fenster* und schreiben dort *shell:startup* hinein und klicken auf die Schaltfläche *OK*.
-	> In diesem Ordner erstellen Sie mit *[RECHTSKLICK]* und einem anschließenden Klick auf die Option *Neu* und einem letzen Klick auf *Verknüpfung eine Verknüpfung. Navigieren Sie zu dem Installationsverzeichnis und wählen dort die *OutlookNotificationCheck.exe* aus*.
+> Öffnen Sie hierzu per Tastenkombination *[WINDOWS] + [R]* das *Ausführen-Fenster* und schreiben dort *shell:startup* hinein und klicken auf die Schaltfläche *OK*.
+> In diesem Ordner erstellen Sie mit *[RECHTSKLICK]* und einem anschließenden Klick auf die Option *Neu* und einem letzen Klick auf *Verknüpfung eine Verknüpfung. Navigieren Sie zu dem Installationsverzeichnis und wählen dort die *OutlookNotificationCheck.exe* aus*.
 
 #### 3. [OPTIONAL] Führen Sie das Programm direkt aus.
-	> Klicken Sie hierzu im Installationsverzeichnis auf die ausführbare Datei *OutlookNotificationCheck.exe*.
+> Klicken Sie hierzu im Installationsverzeichnis auf die ausführbare Datei *OutlookNotificationCheck.exe*.
 
 ### Überprüfung der Installation
 
@@ -34,7 +34,7 @@ Wenn das Erinnerungsfenster innerhalb von 10 Sekunden im Vordergrund landet, hab
 
 ## Deployment
 
-Öffnen Sie die *OutlookNotificationCheck.sln*-Datei in einer Entwicklungsumgebung für C#. Ich empfehle hier Microsoft Visual Studio 2015 zu nutzen, da es auch zur Entwicklung genutzt wurde.
+Öffnen Sie die *OutlookNotificationCheck.sln*-Datei in einer Entwicklungsumgebung für C#. Ich empfehle hier Microsoft Visual Studio 2015 zu nutzen, da es auch zur Entwicklung genutzt wurde. Hier müssen die Projekte jeweils neu erstellt werden.
 
 ## Entwickelt mit
 
@@ -42,7 +42,7 @@ Wenn das Erinnerungsfenster innerhalb von 10 Sekunden im Vordergrund landet, hab
 
 ## Versionierung
 
-Wir nutzen Subversion zur Versionierung. Um die verfügbaren Versionen zu sehen, siehe *tags* in diesem Repository.
+Um die verfügbaren Versionen zu sehen, siehe *tags* in diesem Repository.
 
 ## Autoren
 
