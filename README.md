@@ -1,6 +1,6 @@
-# OutlookNotificationCheck
-
 [![BCH compliance](https://bettercodehub.com/edge/badge/SVYSHE/OutlookNotificationCheck?branch=master)](https://bettercodehub.com/)
+
+# OutlookNotificationCheck
 
 OutlookNotificationCheck überprüft ob ein Erinnerungsfenster von Outlook 2016 existiert und holt dieses in den Vordergrund.
 
