@@ -10,6 +10,10 @@ Mit diesen Anweisungen erhalten Sie eine Kopie der Anwendung auf ihre lokale Mas
 
 - .NET-Framework 4.5 oder höher
 
+### Download
+
+Sie können die Installationsroutine [**hier**](https://github.com/SVYSHE/OutlookNotificationCheckSetup "Download OutlookNotificationCheck") mit einem Klick auf *Clone  or download* herunterladen.
+
 ### Installation
 
 #### 1. Führen Sie die Installationsroutine aus.
