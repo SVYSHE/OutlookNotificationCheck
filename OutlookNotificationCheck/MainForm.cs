@@ -37,7 +37,7 @@ namespace OutlookNotificationCheck
 
             try
             {
-                IntPtr reminderWindowHandle = FindReminderWindow(10);
+                IntPtr reminderWindowHandle = FindReminderWindow(100);
                 
                 if (WindowUtility.IsWindowVisible(reminderWindowHandle))
                 {

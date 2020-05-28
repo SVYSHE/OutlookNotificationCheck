@@ -7,12 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookNotificationCheck", 
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OutlookNotificationCheck_Setup", "OutlookNotificationCheck_Setup\OutlookNotificationCheck_Setup.vdproj", "{1D5B769C-B50D-40FB-9A87-8082C9C4058D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdditionalFiles", "AdditionalFiles", "{CF42873E-106E-44A2-ACE0-A02D8CDDFE03}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Desktop\Lizenz.md = ..\..\..\..\Desktop\Lizenz.md
-		..\..\..\..\Desktop\ReadMe.md = ..\..\..\..\Desktop\ReadMe.md
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
