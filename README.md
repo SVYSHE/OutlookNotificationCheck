@@ -1,10 +1,7 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/SVYSHE/OutlookNotificationCheck?branch=master)](https://bettercodehub.com/)
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Version: 1.0.0](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/SVYSHE/OutlookNotificationCheck/releases)
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 # OutlookNotificationCheck
