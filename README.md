@@ -16,7 +16,7 @@ Sie können die Installationsroutine [**hier**](https://github.com/SVYSHE/Outloo
 
 ### Installation
 
-#### 1. Führen Sie die Installationsroutine aus.
+#### 1. Führen Sie die Installationsroutine *OutlookNotification_Setup.msi* aus.
 
 > Wechseln Sie dazu in das Verzeichnis *[Downloadverzeichnis]/OutlookNotificationCheck/OutlookNotification_Setup/Debug/*.
 > Führen Sie hier die Installationsroutine *OutlookNotificationCheck_Setup.msi* aus und folgen Sie den Anweisungen.
