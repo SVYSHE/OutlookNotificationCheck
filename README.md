@@ -1,6 +1,6 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/SVYSHE/OutlookNotificationCheck?branch=master)](https://bettercodehub.com/)
 
-[![Version: 1.0.0](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://github.com/SVYSHE/OutlookNotificationCheck/releases)
+[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/SVYSHE/OutlookNotificationCheck/releases)
 
 
 
