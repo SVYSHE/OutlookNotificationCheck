@@ -2,7 +2,7 @@
 
 [![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/SVYSHE/OutlookNotificationCheck/releases)
 
-
+[![Version: 1.0.0](https://img.shields.io/badge/License-MIT-brightgreen)](https://github.com/SVYSHE/OutlookNotificationCheck/blob/master/Lizenz.md)
 
 # OutlookNotificationCheck
 
