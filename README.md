@@ -52,7 +52,7 @@ Wenn das Erinnerungsfenster innerhalb von 10 Sekunden im Vordergrund landet, hab
 
 ## Versionierung
 
-Um die verfügbaren Versionen zu sehen, siehe *tags* in diesem Repository.
+Um die verfügbaren Versionen zu sehen, siehe [*releases*](https://github.com/SVYSHE/OutlookNotificationCheck/releases "releases") in diesem Repository.
 
 ## Autoren
 
