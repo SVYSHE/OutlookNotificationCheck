@@ -34,7 +34,7 @@ Sie können die Installationsroutine [**hier**](https://github.com/SVYSHE/Outloo
 #### 2. Erstellen Sie einen Autostart Eintrag.
 	
 > Öffnen Sie hierzu per Tastenkombination *[WINDOWS] + [R]* das *Ausführen-Fenster* und schreiben dort *shell:startup* hinein und klicken auf die Schaltfläche *OK*.
-> In diesem Ordner erstellen Sie mit *[RECHTSKLICK]* und einem anschließenden Klick auf die Option *Neu* und einem letzen Klick auf *Verknüpfung eine Verknüpfung. Navigieren Sie zu dem Installationsverzeichnis und wählen dort die *OutlookNotificationCheck.exe* aus*.
+> In diesem Ordner erstellen Sie mit *[RECHTSKLICK]* und einem anschließenden Klick auf die Option *Neu* und einem letzen Klick auf *Verknüpfung* eine Verknüpfung. Navigieren Sie zu dem Installationsverzeichnis und wählen dort die *OutlookNotificationCheck.exe* aus*.
 
 #### 3. [OPTIONAL] Führen Sie das Programm direkt aus.
 > Klicken Sie hierzu im Installationsverzeichnis auf die ausführbare Datei *OutlookNotificationCheck.exe*.
